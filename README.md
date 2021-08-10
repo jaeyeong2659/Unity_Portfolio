@@ -1,6 +1,8 @@
-# Unity Protfolio (1인칭 FPS 좀비 게임)
+## Unity Protfolio (1인칭 FPS 좀비 게임)
 
 Unity로 제작된 1인칭 FPS 좀비 게임 Portfolio 입니다.
+
+기본적인 1인칭 움직임과 총 기능, 간단한 미션과 좀비 리스폰이 구현되어 있습니다.
 
 현재 깃허브에는 소스파일만 업로드된 상태입니다.
 
