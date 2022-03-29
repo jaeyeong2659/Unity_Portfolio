@@ -17,4 +17,4 @@ Unity로 제작된 1인칭 FPS 좀비 게임 Portfolio 입니다.
 ```
 영상 링크 : https://youtu.be/wR39qljGYuA
 
-기술 문서 링크 : https://docs.google.com/presentation/d/1t5fNJ0vmH2vpvHOhMg768YarzRx-mq-ufvBIZ8UJ8Mg/edit?usp=sharing
+기술 문서 링크 : 
