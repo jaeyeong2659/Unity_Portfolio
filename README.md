@@ -14,7 +14,6 @@
 **미션 시스템**, **화면 흔들림 효과** 등의 기능을 구현하였습니다.  
 
 📽 **[시연 영상 확인](https://youtu.be/wR39qljGYuA)**  
-📑 **[노션 상세 문서](https://overcle.notion.site/Unity-d117a49c45c64fa5ba2ba9d748fe4c9a?pvs=25)**  
 
 ---
 
